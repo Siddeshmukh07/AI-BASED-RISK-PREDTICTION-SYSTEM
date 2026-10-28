@@ -1,0 +1,2 @@
+timestamp,pair,risk_level,ml_level,risk_score,risk_amount,stop_distance_pct,position_units,model_note,notes
+2026-10-27T19:53:16,EUR/USD,LOW,LOW,15.4,100.0,0.4608294930875478,20000.000000000426,Rule-based estimate (scikit-learn unavailable),Review the trade plan and stop-loss before any trade.
